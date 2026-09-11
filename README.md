@@ -123,4 +123,4 @@ quiple입니다.
 
 ## 오타를 발견하셨거나 문제가 있다면
 
-번역 오타, 어색한 표현, 설치 중 겪은 문제 등은 무엇이든 [ScavLand Korean project](https://steamcommunity.com/groups/Scavland_KR_project) 스팀그룹에 남겨 주시면 확인 후 다음 버전에 반영하겠습니다.
+번역 오타, 어색한 표현, 설치 중 겪은 문제 등은 무엇이든 평가 댓글이나 이슈에 남겨 주시면 확인 후 다음 버전에 반영하겠습니다.
