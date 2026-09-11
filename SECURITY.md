@@ -52,4 +52,4 @@ Scavland 한글패치는 게임 [Scavland]의 **비공식 팬 제작 한국어 �
 | 최신 릴리스 | ✅ 지원 |
 | 이전 버전 | ❌ 지원 종료 |
 
-일반적인 번역 오류, 오타, 게임 버그 관련 제보는 [이슈(Issues)](https://steamcommunity.com/groups/Scavland_KR_project) 게시판에 자유롭게 남겨주시면 됩니다.
+일반적인 번역 오류, 오타, 게임 버그 관련 제보는 이슈(Issues) 게시판에 자유롭게 남겨주시면 됩니다.
